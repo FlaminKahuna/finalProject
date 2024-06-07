@@ -8,4 +8,4 @@ Game Rules:
 
 Inputs:
 	Capacitance readings from the sensors on the perimeter of the board(except A0). When touching the sensors with your hand they will change to a value of 0, and when they do this the computer will know that the player is touching the respective sensor. The usual value for these is around 200-250, and anything that escapes that threshold will read as an input.
-	Button Press(to mimic a sound). This has no thresholds and is simply recorded when the button rising function.
+	Button Press(to mimic a sound). Button press has no thresholds and is simply recorded when the button rising function.
